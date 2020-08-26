@@ -1,0 +1,7 @@
+main: ru.mrv.ArmorManager.Main
+name: ArmorManager
+description: saving kits of armor in chestplate , version 1.12.2
+version: 1.0
+commands:
+  createarmorset:
+    description: using with param <name> 
